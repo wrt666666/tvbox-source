@@ -1,0 +1,60 @@
+{
+  "urls": [
+    {
+      "url": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
+      "name": "⭐Qist"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/api.json",
+      "name": "⭐Qist-小沙发"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/qist/tvbox/master/fty.json",
+      "name": "⭐Qist-饭太硬"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/2hacc/TVBox@main/oktv.json",
+      "name": "⭐2hacc"
+    },
+    {
+      "url": "https://6800.kstore.vip/fish.json",
+      "name": "⭐小鱼"
+    },
+    {
+      "url": "https://raw.liucn.cc/box/m.json",
+      "name": "⭐m.json"
+    },
+    {
+      "url": "https://szyyds.cn/tv/x.json",
+      "name": "⭐深影"
+    },
+    {
+      "url": "http://xhztv.top/4k.json",
+      "name": "⭐4K"
+    },
+    {
+      "url": "http://ztha.top/TVBox/GYCK.json",
+      "name": "⭐GYCK多线路"
+    },
+    {
+      "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvboxmuti.json",
+      "name": "⭐Noimank"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/%E4%B8%80%E6%9C%A8%E5%A4%9A%E7%BA%BF%E8%B7%AF.json",
+      "name": "⭐一木"
+    },
+    {
+      "url": "https://gitdl.cn/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+      "name": "⭐高天流云"
+    },
+    {
+      "url": "https://gitdl.cn/raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json",
+      "name": "⭐FongMi"
+    },
+    {
+      "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
+      "name": "⭐潇洒哥弹幕"
+    }
+  ]
+}

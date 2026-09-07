@@ -1,0 +1,37 @@
+{
+  "sites": [
+    {
+      "key": "csp_DouDou",
+      "name": "🎬豆瓣热门",
+      "type": 3,
+      "api": "csp_DouDou",
+      "searchable": 0,
+      "changeable": 0
+    },
+    {
+      "key": "csp_Bili",
+      "name": "📺B站热门",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "changeable": 1
+    }
+  ],
+  "lives": [
+    {
+      "name": "直播",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/yangshangwei/iptv/main/tv.m3u",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ],
+  "spider": "",
+  "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
+  "logo": "",
+  "classes": [],
+  "parse": {
+    "default": "",
+    "json": []
+  }
+}
