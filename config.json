@@ -15,6 +15,16 @@
       "api": "csp_Bili",
       "searchable": 1,
       "changeable": 1
+    },
+    {
+      "key": "SLAPBF",
+      "name": "SLA",
+      "type": 1,
+      "api": "https://slapibf.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     }
   ],
   "lives": [
